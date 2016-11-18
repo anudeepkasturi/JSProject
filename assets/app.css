@@ -29,3 +29,7 @@ h1 {
   width: 685;
   height: 500;
 }
+
+canvas {
+  outline: none;
+}
